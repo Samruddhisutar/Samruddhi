@@ -17,19 +17,6 @@ I specialize in building robust data pipelines and analytical tools that bridge 
 [![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,pycharm,tensorflow,react,perl,sqlite,ubuntu,opencv,notion,matlab,linux,html,graphql,grafana,gitlab,github,bash,autocad,anaconda)](https://skillicons.dev)
 
 
-**Data Science & ML:**
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, PyTorch, TensorFlow
-- **R**: DESeq2, ggplot2, Seurat, Shiny, dplyr, tidyverse
-- **Image Processing**: OpenCV, scikit-image
-- **Bioinformatics**: BioPython, STAR, Salmon, Kallisto, GATK, DeepVariant
-
-**Tools & Platforms:**
-- Version Control: Git, GitHub
-- Development: VSCode, Jupyter Notebooks, Docker
-- Visualization: Tableau, PowerBI
-- HPC & Cloud Computing
-- Unix/Linux Shell scripting
-
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samruddhi-sutar/)
